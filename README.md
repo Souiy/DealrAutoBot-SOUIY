@@ -4,10 +4,15 @@
 ---
 
 ➡ Go to : https://dealr.fun/drop-points
+
 ➖ Connect X 
+
 ➖ Follow Dealr & Dio on X
+
 ➖ Complete the tasks 
+
 ➖ Claim your Drops
+
 ➖ Done
 
 ---
