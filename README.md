@@ -18,7 +18,7 @@
 ---
 
 ## 1. Set Up
-https://github.com/Souiy/DealrAutoBot-SOUIY.git
+git clone https://github.com/Souiy/DealrAutoBot-SOUIY.git
 
 cd DealrAutoBot-SOUIY
 
