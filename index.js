@@ -238,7 +238,7 @@ async function run() {
     space: true,
     maxLength: '0'
   });
-  console.log(centerText("=== FOLLOW TIKTOK 🚀 : NT SOUIY (@Souiy1) ==="));
+  console.log(centerText("=== FOLLOW TIKTOK 🚀 : SOUIY (@Souiy1) ==="));
   console.log(centerText("✪ Dealr AUTO COMPLETE TASK ✪ \n"));
 
   const useProxyAns = await askQuestion('Ingin Menggunakan Proxy? (y/n): ');
